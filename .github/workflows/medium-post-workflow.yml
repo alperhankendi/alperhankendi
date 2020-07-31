@@ -1,0 +1,16 @@
+name: Latest medium post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+ 
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUMFLOW"
+          feed_list: "https://medium.com/feed/hepsiburadatech"
