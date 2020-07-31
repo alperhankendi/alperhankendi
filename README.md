@@ -14,14 +14,19 @@
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][mystack]
 
-<img align="left" alt="Alper Hankendi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alperhankendi&show_icons=true&hide_border=true&count_private=true&theme=" />
+<img align="left" alt="Alper Hankendi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alperhankendi&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 [![Top Langs][mostusedlang]][home]
+
+
+#### Latest Medium Post
+<!-- MEDIUMFLOW:START -->
+<!-- MEDIUMFLOW:END -->
 
 [home]: https://github.com/alperhankendi
 [twitter]: https://twitter.com/alper_hankendi
 [linkedin]: https://www.linkedin.com/in/alper-hankendi-25302a42
 [mystack]: https://stackshare.io/alperhankendi/mystack
 
-[mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs/?username=alperhankendi&show_icons=true&hide_border=true&count_private=true&hide=javascript&layout=compact&theme=
+[mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs/?username=alperhankendi&show_icons=true&hide_border=true&count_private=true&hide=javascript&layout=compact&theme=vue
 
