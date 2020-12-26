@@ -12,7 +12,7 @@
 <br />
 
 ##### My Reading List:
-[List](https://docs.google.com/spreadsheets/d/11IvV4hyJDioq28oqsJtBEsDRQ14ckY1FZHSgFoFcHOE/edit?usp=sharing)
+[2020](https://docs.google.com/spreadsheets/d/11IvV4hyJDioq28oqsJtBEsDRQ14ckY1FZHSgFoFcHOE/edit?usp=sharing)
 ##### My Stack:
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][mystack]
