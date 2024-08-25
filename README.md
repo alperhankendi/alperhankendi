@@ -3,8 +3,8 @@
 #### I'm a Husband, Father, Developer, and Brewer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about anything related to Event Sourcing / CQRS / DDD / MicroServices
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything related to Event Sourcing / CQRS / DDD / MicroServices / Generative AI
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and brewing my own beer
 ##### Connect with me:
 [<img align="left" alt="alperhankendi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="left" alt="alperhankendi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -12,7 +12,7 @@
 <br />
 
 ##### My Reading List:
-[2020](https://docs.google.com/spreadsheets/d/11IvV4hyJDioq28oqsJtBEsDRQ14ckY1FZHSgFoFcHOE/edit?usp=sharing)
+[2024](https://docs.google.com/spreadsheets/d/11IvV4hyJDioq28oqsJtBEsDRQ14ckY1FZHSgFoFcHOE/edit?usp=sharing)
 ##### My Stack:
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][mystack]
